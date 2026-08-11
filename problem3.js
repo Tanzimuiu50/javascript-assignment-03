@@ -49,6 +49,7 @@
 // countHashtags(["#fun"])
 // Expected Output:
 // "Invalid"
+//tanzim.uiu
 
 
 function countHashtags(caption) {
